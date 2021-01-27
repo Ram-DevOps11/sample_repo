@@ -1,2 +1,2 @@
 # sample_repo
-for learning 
+for learning of GITHUB, i am using this repository
